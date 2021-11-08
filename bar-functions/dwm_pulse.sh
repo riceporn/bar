@@ -1,4 +1,4 @@
-#!/bin/sh
+!/bin/sh
 
 # A dwm_bar function to show the master volume of PulseAudio
 # Joe Standring <git@joestandring.com>
